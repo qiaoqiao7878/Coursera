@@ -1,5 +1,17 @@
-# CV-TF
-Exercises code provided by Advanced Computer Vision with TensorFlow in Coursera
+# Advanced Computer Vision with TensorFlow
+
+a) Explore image classification, image segmentation, object localization, and object detection. 
+Apply transfer learning to object localization and detection.
+
+b) Apply object detection models such as regional-CNN and ResNet-50, 
+customize existing models, and build your own models to detect, localize, and label your own rubber duck images.
+
+c) Implement image segmentation using variations of the fully convolutional network (FCN) including U-Net and 
+Mask-RCNN to identify and detect numbers, pets, zombies, and more.
+
+d) Identify which parts of an image are being used by your model to make its predictions using class activation maps and 
+saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.
+
 
 References
 

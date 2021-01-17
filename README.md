@@ -9,10 +9,9 @@ C1. Neural Networks and Deep Learning
 C2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 C3. Structuring Machine Learning Projects\
-unfinish
+No code
 
 C4. Convolutional Neural Networks\
-unfinish
 
 C5. Sequence Models\
 unfinish

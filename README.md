@@ -14,7 +14,6 @@ No code
 C4. Convolutional Neural Networks\
 
 C5. Sequence Models\
-unfinish
 
 TensorFlow: Advanced Techniques Specialization:
 
@@ -25,4 +24,4 @@ C2. Custom and Distributed Training with TensorFlow
 C3. Advanced Computer Vision with TensorFlow
 
 C4. Generative Deep Learning with TensorFlow\
-unfinish
+

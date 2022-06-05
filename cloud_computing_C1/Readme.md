@@ -29,3 +29,18 @@ Keep things simple
 3. Highest-paid person's opinion driven development
 4. Heavy scrum -> the brighter the process the better
 5. Faith in people vs faith in process -> increment result is shown, don't hope something will magically happens
+
+## Continuous Integration (CI)
+Software is always in a knowable state.
+Automatically test the code when there are some changes at local
+
+
+
+
+### Item
+SaaS: Software as a service. Delivering applications over the Internet as a service.
+Node.js: open source server environment, allows you to run Javascript on the server, uses asynchronous programming, eliminates waiting.
+Javascript: programming language of the Web, program the behavior of web pages
+HTML: define the content of web pages
+CSS: specify the layout of web pages
+

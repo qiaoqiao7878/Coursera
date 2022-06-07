@@ -34,7 +34,7 @@ Keep things simple
 Software is always in a knowable state.
 Automatically test the code when there are some changes at local
 
-
+Use Github Actions to automatically test the code every time after pushing, set up yaml file.
 
 
 ### Item

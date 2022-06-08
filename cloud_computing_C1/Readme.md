@@ -36,6 +36,17 @@ Automatically test the code when there are some changes at local
 
 Use Github Actions to automatically test the code every time after pushing, set up yaml file.
 
+## Continuous Deployment (CD)
+
+software releases wherein any code commit that passes the automated testing phase is automatically released into the production environment, making changes that are visible to the software's users.
+
+## Cloud Computing Service Models
+
+1. Software as a Service (SaaS)
+2. Platform as a Service (PaaS)
+3. Infrastructure as a Service (IaaS)
+4. Metal as a Service (MaaS)
+5. Serverless
 
 ### Item
 SaaS: Software as a service. Delivering applications over the Internet as a service.

@@ -52,6 +52,22 @@ software releases wherein any code commit that passes the automated testing phas
 
 ## Infrastructure as Code (IaC)
 
+manage infrastructure (networks, virtual machines, load balancers, connection topology) in a descriptive model, an IaC model generates the same environment every time.
+We want to reproduce the environments automatically.
+
+Terrafrom: open-source infrastructure as code software tool that enables you to safely and predictably create, change, and improve infrastructure.
+
+
+## DevOps
+
+### Benefits of DevOps
+
+- speed
+- Delivery
+- Reliability
+- Scale
+- Collaboration
+- Security
 
 
 

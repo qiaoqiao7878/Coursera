@@ -69,12 +69,36 @@ Terrafrom: open-source infrastructure as code software tool that enables you to 
 - Collaboration
 - Security
 
+## Continuous Delivery
 
+Automatically test, IaC, Deploy.
+The code is always in an improved, and deployable state.
 
 ### Item
-SaaS: Software as a service. Delivering applications over the Internet as a service.
-Node.js: open source server environment, allows you to run Javascript on the server, uses asynchronous programming, eliminates waiting.
-Javascript: programming language of the Web, program the behavior of web pages
-HTML: define the content of web pages
-CSS: specify the layout of web pages
+SaaS: Software as a service. Delivering applications over the Internet as a service. \
+Node.js: open source server environment, allows you to run Javascript on the server, uses asynchronous programming, eliminates waiting. \
+Javascript: programming language of the Web, program the behavior of web pages \
+HTML: define the content of web pages \
+CSS: specify the layout of web pages \
+Flask: Framework in Python to build Microservices \
+Hugo: Static hosted website technology with language Go. [Hugo Git Repo](https://github.com/gohugoio/hugo) \
+Static websites: Serverless websites \
+
+Linux commands:
+wget: as same as you are on the website and click on the link to download something
+
+if you have a xxx.tar.gz file, you can use 'tar zxvf xxx' to unzip it.
+
+chmod: stands for change mode. to change the access permissions of files and directories.
+
+user classes:
+- owner (u)
+- group member (g)
+- others (o)
+- all (a)
+
+file permissions:
+- read (r)
+- write (w)
+- execute (x)
 

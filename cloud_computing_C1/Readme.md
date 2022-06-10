@@ -1,5 +1,7 @@
 # Cloud computing foundations
 
+Resource: https://paiml.com/
+
 ## Effective technical teamwork
 1. Clear, elevating goal
 2. Results-driven structure

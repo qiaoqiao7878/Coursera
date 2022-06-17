@@ -30,3 +30,11 @@ Test cases: test data, expected output
 - Invocation: execute the software under test
 - Assessment: Observing the doftware's behaviour under test, documenting the actions that were taken
 - Teardown: such as closing database connections, closing open file handles
+
+For critial systems, much effort is in planning for failure
+
+- Faults: programmer's mistake
+- Latent errors: a line of code with a bug in it
+- Effective errors: executing the line of code containing a bug
+- Failures: e.g. the program crashes
+

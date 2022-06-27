@@ -35,7 +35,7 @@ For critial systems, much effort is in planning for failure
 
 - Faults: programmer's mistake
 - Latent errors: a line of code with a bug in it
-- Effective errors: executing the line of code containing a bug
+- Effective errors: executing the line of code containing a bug, if the system reaches a state where the error can manifest
 - Failures: e.g. the program crashes
 
 ## Where error usually happens
@@ -49,3 +49,19 @@ For critial systems, much effort is in planning for failure
 - Casts and Conversions between Types
 
 
+## V model
+User requirements ------------------> Validation
+  Specification ------------------> Verification
+    Architectural decisions ---> System integration testing
+      Design -------------> Module testing
+        Implementation -> Unit tests
+        
+Validation:\
+- Meet user's satisfaction
+- Are we building the right product?
+
+Verification:\
+- Are we building the product right?
+
+## Mutation testing
+create a new version of the software with a single error injected, and see if all the tests pass.

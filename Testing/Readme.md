@@ -38,3 +38,14 @@ For critial systems, much effort is in planning for failure
 - Effective errors: executing the line of code containing a bug
 - Failures: e.g. the program crashes
 
+## Where error usually happens
+
+- Floating-point numbers
+- Pointers(C/C++)
+- Parallelism: such as deadlock
+- Numeric Limits/Boundaries: off by 1
+- Interrupts
+- Complex Boolean Expressions
+- Casts and Conversions between Types
+
+

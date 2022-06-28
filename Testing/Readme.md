@@ -65,3 +65,21 @@ Verification:\
 
 ## Mutation testing
 create a new version of the software with a single error injected, and see if all the tests pass.
+
+## Software defect reports
+
+Analyze, Report, Track, Retest, Close
+
+- Analyze: find the root cause, determine if it is reproducible, attempt to isolate the defect
+- Reporting: ensure it is not a duplicate, talk with the developer, enter it into the system, make sure it gets fixed
+- Track: recommend having a defect review board
+- Retest
+- Close:
+
+Report content:
+- Identifying information
+- Description of the problem
+- Status indicators: open vs closed, severity and priority.
+- Comments
+- Miscellaneous information
+- Supporting information

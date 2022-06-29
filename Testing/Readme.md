@@ -92,3 +92,8 @@ lightweight versions of components that are necessary to test some class or syst
 - Fake Objects: lightweight implementation of 'heavyweight' processes like databases
 - Mock Objects:  
 - Spy objects:
+
+
+## JaCoCo: Java Code Coverage Library
+we want to try to unit test thoroughly
+

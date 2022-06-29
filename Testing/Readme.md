@@ -83,3 +83,12 @@ Report content:
 - Comments
 - Miscellaneous information
 - Supporting information
+
+## Test Doubles
+lightweight versions of components that are necessary to test some class or system, usually designated the System Under Test
+
+- Dummy objects
+- Test Stubs: 'dummy' input data sources
+- Fake Objects: lightweight implementation of 'heavyweight' processes like databases
+- Mock Objects:  
+- Spy objects:

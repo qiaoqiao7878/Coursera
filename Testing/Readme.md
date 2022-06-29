@@ -97,3 +97,11 @@ lightweight versions of components that are necessary to test some class or syst
 ## JaCoCo: Java Code Coverage Library
 we want to try to unit test thoroughly
 
+## Flakey test
+A test that has a non-deterministic outcome
+
+What makes a test flakey?\
+- Concurrency
+- Timinig
+- Change in Environment: change in date/time, OS, GUI framework, amount of available memory, process, network, disk speed, version of JVM, location of objects in memory
+
